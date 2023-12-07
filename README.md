@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Inclusão no mundo da Programação ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Foi criado um vídeo com a ajuda das IAs para inclusão de pessoas com algum tipo de deficiência visual parcial.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+HeyGen
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi solicitado um texto ao ChatGPT através de um prompt bem definido de como editar o VS Code para ficar um ambiente confortável para pessoas com deficiência visual parcial conseguir desenvolver na ferramenta e criado um vídeo no HeyGen.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Tornar o ambiente de codificação acessível a todos, incluindo aqueles com dificuldades visuais
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi incríevel usar ferramentas de IAs com a finalidade de inclusão.
 ```
 
 ### Exemplos e Insigths
