@@ -36,7 +36,7 @@ Foi solicitado um texto ao ChatGPT através de um prompt bem definido de como ed
 Tornar o ambiente de codificação acessível a todos, incluindo aqueles com dificuldades visuais
 
 ## 💭 Reflexão (Opcional)
-Foi incríevel usar ferramentas de IAs com a finalidade de inclusão.
+Foi incrível usar ferramentas de IAs com a finalidade de inclusão.
 ```
 
 ### Exemplos e Insigths
